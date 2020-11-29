@@ -19,7 +19,7 @@ knitr::opts_chunk$set(
   <div class="col-sm-3">
 
 ```{r, out.extra='angle=90'}
-knitr::include_graphics("gfx/20201127_153548.jpg")
+knitr::include_graphics("gfx/38_stoddard.jpg")
 ```
 
   </div>
@@ -40,7 +40,7 @@ Sold on 03/28/19
   <div class="col-sm-3">
 
 ```{r, out.extra='angle=90'}
-knitr::include_graphics("gfx/20201127_153800.jpg")
+knitr::include_graphics("gfx/181_round_hill.jpg")
 ```
 
   </div>
@@ -66,7 +66,7 @@ Sold on 07/28/20
   <div class="col-sm-3">
 
 ```{r, out.extra='angle=90'}
-knitr::include_graphics("gfx/20201127_154734.jpg")
+knitr::include_graphics("gfx/4_rust.jpg")
 ```
 
   </div>
@@ -88,7 +88,7 @@ Sold on 12/19/19
   <div class="col-sm-3">
 
 ```{r, out.extra='angle=90'}
-knitr::include_graphics("gfx/20201127_160018.jpg")
+knitr::include_graphics("gfx/36_landy.jpg")
 ```
 
   </div>
