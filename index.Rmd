@@ -116,7 +116,7 @@ Sold on 11/05/17
   <div class="col-sm-3">
 
 ```{r, out.extra='angle=90'}
-knitr::include_graphics("https://photos.zillowstatic.com/fp/ad252b523ba62a4222a24684bdee4936-cc_ft_384.jpg")
+knitr::include_graphics("gfx/23_lexington.jpg")
 ```
 
   </div>
@@ -134,6 +134,55 @@ Sold on 11/01/18
 
 
   </div>
+  
+
+  <div class="col-sm-3">
+
+```{r, out.extra='angle=90'}
+knitr::include_graphics("gfx/12_winslow.jpg")
+```
+
+  </div>
+  <div class="col-sm-3">
+
+### [12 Winslow Ave](https://www.zillow.com/homedetails/12-Winslow-Ave-Northampton-MA-01062/309911113_zpid/)
+
+? bd | ? ba | ? sqft
+
+12 Winslow Ave, Northampton, MA 01062
+
+Sold: **$523,000**
+
+Sold on 05/05/20
+
+
+  </div>
+  
+  
 </div>
 
+
+<div class="row">
+  <div class="col-sm-3">
+
+```{r, out.extra='angle=90'}
+knitr::include_graphics("https://photos.zillowstatic.com/fp/13f39a02a31c37e981ac9a63c9994e24-cc_ft_384.jpg")
+```
+
+  </div>
+  <div class="col-sm-3">
+
+### [59 Ice Pond Dr](https://www.zillow.com/homes/59-Ice-Pond-Dr-Northampton,-MA,-01062_rb/123892070_zpid/)
+
+3 bd | 3 ba | 1,923 sqft
+
+59 Ice Pond Dr, Northampton, MA 01062
+
+Sold: **$579,000**
+
+Sold on 10/15/20
+
+
+  </div>
+</div>
 
